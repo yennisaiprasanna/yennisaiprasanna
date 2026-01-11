@@ -39,11 +39,11 @@ I specialize in building **highly available, production-grade platforms** with K
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://yennisaiprasanna-github-readme-stats.vercel.app/api?username=yennisaiprasanna&theme=tokyonight" />
+  <img src="https://github-readme-stats-nine-omega-39.vercel.app/api?username=yennisaiprasanna&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://yennisaiprasanna-github-readme-stats.vercel.app/api/top-langs/?username=yennisaiprasanna&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-nine-omega-39.vercel.app/api/top-langs/?username=yennisaiprasanna&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
