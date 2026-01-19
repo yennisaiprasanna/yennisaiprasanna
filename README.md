@@ -22,7 +22,7 @@ I specialize in building **highly available, production-grade platforms** with K
 
 | Foundations | Core DevOps | Cloud / Monitoring |
 |------------|-------------|-------------------|
-| Linux (RHEL/Ubuntu) <br> Networking (DNS, TCP/IP, Load Balancing) | Docker <br> Kubernetes (EKS, kubeadm HA) <br> Terraform <br> Jenkins <br> GitOps (FluxCD / ArgoCD) | AWS / Azure / VMware <br> Prometheus <br> Grafana <br> ELK / EFK |
+| Linux (RHEL/Ubuntu/CentOS/Kali) <br> Networking (DNS, TCP/IP, Load Balancing) | Docker <br> Kubernetes (EKS, kubeadm HA) <br> Terraform <br> Jenkins <br> GitOps (FluxCD / ArgoCD) | AWS / Azure / VMware <br> Prometheus <br> Grafana <br> ELK / EFK |
 
 ---
 
