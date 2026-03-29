@@ -1,58 +1,67 @@
-<h1 align="center">
-  Hi, I'm Y Sai Prasanna <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
+<h1 align="center">Hi 👋, I'm Y Sai Prasanna</h1>
+<h3 align="center">🚀 DevOps Engineer | SRE | Cloud Platform Engineer</h3>
 
-<h3 align="center">
-DevOps Engineer | Site Reliability Engineer | Cloud Platform Engineer
-</h3>
-
----
-
-## 👨‍💻 About Me
-
-I follow a strong **Infrastructure as Code** mindset and believe in one principle above all:  
-**Automate Everything.**  
-From infrastructure provisioning to deployments, monitoring, and recovery — I design systems that are reproducible, version-controlled, and resilient by default.
-
-I specialize in building **highly available, production-grade platforms** with Kubernetes, GitOps, and cloud-native tooling. My work focuses on reliability, scalability, cost optimization, and observability for systems serving global teams across DEV, UAT, and PROD environments.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Automate+Everything;Kubernetes+%7C+Cloud+%7C+DevOps;Building+Scalable+Systems;Always+Learning+🚀&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🧠 T-Shaped Skill Set
-
-| Foundations | Core DevOps | Cloud / Monitoring |
-|------------|-------------|-------------------|
-| Linux (RHEL/Ubuntu/CentOS/Kali) <br> Networking (DNS, TCP/IP, Load Balancing) | Docker <br> Kubernetes (EKS, kubeadm HA) <br> Terraform <br> Jenkins <br> GitOps (FluxCD / ArgoCD) | AWS / Azure / VMware <br> Prometheus <br> Grafana <br> ELK / EFK |
+## 🧠 About Me
+- 🔧 DevOps Engineer with strong IaC mindset
+- ☁️ Working on AWS, Azure & VMware
+- ⚙️ Passionate about automation & scalability
+- 📈 Focused on reliability, observability & performance
 
 ---
 
-## 🏗️ What I Build
+## 🚀 Tech Stack
+### 🖥️ DevOps & Cloud
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 
-- 🔹 Production Kubernetes clusters (HA, secure, observable)
-- 🔹 CI/CD pipelines with automated testing & security
-- 🔹 GitOps-driven deployments with rollback safety
-- 🔹 Hybrid cloud & on-prem migrations
-- 🔹 Monitoring systems that reduce MTTR and alert fatigue
+### ⚙️ Tools
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins)
+
+---
+
+## 📌 Featured Projects
+- 🔹 Kubernetes Production HA Cluster
+- 🔹 Terraform VMware Automation
+- 🔹 GitOps CI/CD Pipelines
 
 ---
 
 ## 📊 GitHub Stats
-
 <p align="center">
-  <img src="https://github-readme-stats-nine-omega-39.vercel.app/api?username=yennisaiprasanna&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-nine-omega-39.vercel.app/api/top-langs/?username=yennisaiprasanna&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yennisaiprasanna&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yennisaiprasanna&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📈 Activity Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yennisaiprasanna&theme=tokyo-night" />
 
-- 💼 LinkedIn: https://linkedin.com/in/saiprasanna059  
+---
+
+## 🏆 Achievements
+<img src="https://github-profile-trophy.vercel.app/?username=yennisaiprasanna&theme=onedark" />
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: https://linkedin.com/in/saiprasanna059
 - 📧 Email: ysprasanna7@gmail.com
 
 ---
 
-⭐ *I enjoy building reliable systems that scale — and automating myself out of repetitive work.*
+## 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=yennisaiprasanna&label=Profile%20views&color=0e75b6&style=flat" />
+
+---
+
+⭐ *"I build systems that scale — and automate myself out of repetitive work."*
