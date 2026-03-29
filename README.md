@@ -55,22 +55,6 @@
 - Automated deployments with rollback safety
 
 ---
-
-## 📊 GitHub Performance
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yennisaiprasanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yennisaiprasanna&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yennisaiprasanna&theme=tokyo-night&hide_border=true" />
-
----
-
 ## 🏆 Achievements
 
 <p align="center">
